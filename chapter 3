@@ -3,3 +3,9 @@ This is a chapter 3 created on Feb. 15, 2021
 This branch is not yet merged with the master branch as of Feb. 15, 2021
 
 Check out the master branch and merge the chapter 3 to the master branch afterward.
+
+>> Below comments are edited from the file in master branch.
+This file from branch 02 was pulled and merged to the master on 2/15/21.
+
+This change should not be visible to any other branches yet.
+
